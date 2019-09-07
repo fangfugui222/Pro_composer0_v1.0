@@ -1,0 +1,14 @@
+{
+    "name": "fangfugui222/fugui222",
+    "description": "composer link github",
+    "type": "project",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "红色熊猫",
+            "email": "fangfugui222@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
